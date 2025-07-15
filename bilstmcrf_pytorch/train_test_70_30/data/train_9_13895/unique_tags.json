@@ -1,0 +1,17 @@
+[
+    "B-ACH",
+    "B-ATE",
+    "B-BOR",
+    "B-CAL",
+    "B-LOC",
+    "B-TAM",
+    "I-ACH",
+    "I-ATE",
+    "I-BOR",
+    "I-CAL",
+    "I-LOC",
+    "I-TAM",
+    "O",
+    "<PAD>",
+    "<UNK>"
+]

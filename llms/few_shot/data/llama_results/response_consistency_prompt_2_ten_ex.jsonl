@@ -1,0 +1,951 @@
+{
+  "overall_consistency_percentage": 99.28571428571429,
+  "overall_inconsistency_percentage": 0.7142857142857143,
+  "overall_skip_percentage": 0.0,
+  "per_question_analysis": {
+    "O nódulo é sólido ou em partes moles?": {
+      "consistency_percentage": 100.0,
+      "inconsistency_percentage": 0.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    },
+    "O nódulo tem densidade semissólida ou parcialmente sólida?": {
+      "consistency_percentage": 100.0,
+      "inconsistency_percentage": 0.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    },
+    "O nódulo é em vidro fosco?": {
+      "consistency_percentage": 100.0,
+      "inconsistency_percentage": 0.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    },
+    "O nódulo é espiculado, irregular ou mal definido?": {
+      "consistency_percentage": 99.0,
+      "inconsistency_percentage": 1.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    },
+    "O nódulo é calcificado?": {
+      "consistency_percentage": 100.0,
+      "inconsistency_percentage": 0.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    },
+    "Localização do nódulo": {
+      "consistency_percentage": 98.0,
+      "inconsistency_percentage": 2.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    },
+    "Tamanho do nódulo": {
+      "consistency_percentage": 98.0,
+      "inconsistency_percentage": 2.0,
+      "skip_percentage": 0.0,
+      "total_occurrences": 100
+    }
+  },
+  "consistency_details_by_laudo": {
+    "540": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "541": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "546": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "550": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "552": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "554": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "556": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Inconsistent",
+      "Tamanho do nódulo": "Inconsistent"
+    },
+    "558": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "559": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "577": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "583": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "589": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "591": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "595": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "598": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "613": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "615": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "616": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "618": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "627": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "629": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "637": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "640": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "646": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "650": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "659": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "660": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "662": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "665": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "666": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "673": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "677": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "684": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "691": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "693": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "694": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "697": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "699": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "701": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "702": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "703": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "706": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "707": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "712": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "713": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "719": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "720": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "725": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "726": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "727": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "731": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "734": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "741": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "744": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "747": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "749": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "751": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "752": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "753": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "754": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "759": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "760": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "771": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "774": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "776": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "792": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "795": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "797": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "806": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "811": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "813": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "818": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "819": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "820": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "821": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "822": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "830": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "832": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Inconsistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Inconsistent",
+      "Tamanho do nódulo": "Inconsistent"
+    },
+    "834": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "836": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "839": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "847": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "848": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "851": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "853": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "864": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "865": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "867": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "871": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "873": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "874": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "875": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "877": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "880": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "881": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "885": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "886": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "893": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "896": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    },
+    "900": {
+      "O nódulo é sólido ou em partes moles?": "Consistent",
+      "O nódulo tem densidade semissólida ou parcialmente sólida?": "Consistent",
+      "O nódulo é em vidro fosco?": "Consistent",
+      "O nódulo é espiculado, irregular ou mal definido?": "Consistent",
+      "O nódulo é calcificado?": "Consistent",
+      "Localização do nódulo": "Consistent",
+      "Tamanho do nódulo": "Consistent"
+    }
+  }
+}

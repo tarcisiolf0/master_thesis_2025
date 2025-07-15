@@ -1,0 +1,101 @@
+Laudo,O nódulo é sólido ou em partes moles?,O nódulo tem densidade semissólida ou parcialmente sólida?,O nódulo tem densidade em vidro fosco?,O nódulo tem borda espiculada e/ou mal definida?,O nódulo é calcificado?,Localização do nódulo,Tamanho do nódulo (mm)
+540.0,True,False,False,False,False,Lobo superior direito,5.0
+541.0,False,False,False,False,False,Lobo inferior esquerdo,11.5
+546.0,False,False,False,False,False,Lobo superior direito,6.3
+550.0,False,False,False,False,True,Lobo superior direito,4.6
+552.0,False,False,False,False,True,Lobo superior direito,3.1
+554.0,False,False,False,False,True,Lobo inferior direito,2.8
+556.0,False,False,False,False,False,Lobo superior direito,5.0
+558.0,False,False,False,False,True,Lobo inferior direito,3.0
+559.0,False,False,False,False,True,Lobo superior direito,5.2
+577.0,False,False,False,False,True,Lobo inferior esquerdo,2.3
+583.0,False,False,False,False,True,Lobo médio direito,3.5
+589.0,False,False,False,True,False,Lobo inferior esquerdo,16.0
+591.0,False,False,False,False,True,Lobo inferior direito,6.0
+595.0,False,False,False,False,True,Lobo superior direito,6.0
+598.0,False,False,False,False,True,Lobo inferior esquerdo,2.3
+613.0,False,False,False,False,True,Lobo inferior direito,5.0
+615.0,False,False,False,False,True,Lobo inferior direito,7.0
+616.0,False,False,False,False,True,Lobo inferior esquerdo,10.0
+618.0,True,False,False,False,False,Lobo médio direito,10.0
+627.0,False,False,False,False,True,Lobo inferior direito,2.2
+629.0,False,False,False,False,True,Lobo inferior direito,2.0
+637.0,False,False,False,False,True,Lobo inferior direito,3.4
+640.0,False,False,False,False,True,Lobo superior direito,3.4
+646.0,False,False,False,False,True,Outros,3.0
+650.0,True,False,False,False,False,Lobo superior direito,3.0
+659.0,False,False,False,False,True,Lobo inferior esquerdo,3.0
+660.0,True,False,False,False,False,Lobo inferior esquerdo,4.0
+662.0,False,False,False,False,True,Lobo superior esquerdo,5.0
+665.0,False,False,False,False,False,Outros,9.0
+666.0,True,False,False,True,False,Lobo inferior direito,6.0
+673.0,True,False,False,False,False,Lobo médio direito,14.0
+677.0,False,False,False,False,True,Lobo inferior direito,3.0
+684.0,True,False,False,False,False,Lobo inferior esquerdo,3.0
+691.0,False,False,False,False,True,Lobo inferior direito,5.0
+693.0,False,False,False,False,False,Lobo médio direito,10.6
+694.0,False,False,False,False,True,Lobo inferior direito,4.0
+697.0,False,False,False,False,True,Lobo inferior esquerdo,5.0
+699.0,True,False,False,False,False,Lobo inferior direito,3.0
+701.0,False,False,False,False,False,Lobo superior esquerdo,2.7
+702.0,False,False,False,False,True,Lobo superior esquerdo,2.5
+703.0,False,False,False,True,False,Lobo superior direito,11.0
+706.0,False,False,False,False,True,Lobo superior direito,3.0
+707.0,False,False,False,False,True,lobo superior esquerdo,3.5
+712.0,False,False,False,False,False,Lobo inferior direito,6.0
+713.0,False,False,False,False,True,Outros,4.0
+719.0,True,False,False,False,False,Lobo superior direito,2.0
+720.0,False,False,False,False,True,Lobo inferior direito,5.0
+725.0,False,False,False,False,True,Lobo inferior esquerdo,6.0
+726.0,False,False,False,False,True,Lobo inferior direito,6.0
+727.0,False,False,False,False,True,Lobo superior direito,7.7
+731.0,False,False,False,False,True,Lobo inferior direito,6.0
+734.0,True,False,False,False,False,Lobo médio direito,5.0
+741.0,False,False,False,False,True,Lobo superior esquerdo,2.4
+744.0,False,False,False,False,True,Lobo inferior esquerdo,9.0
+747.0,False,False,False,False,False,Lobo superior direito,4.0
+749.0,False,False,False,False,True,Lobo inferior esquerdo,3.6
+751.0,False,False,False,False,True,Outros,7.0
+752.0,False,False,False,False,False,Outros,3.0
+753.0,False,False,False,False,True,Outros,4.0
+754.0,False,False,False,False,True,Lobo superior esquerdo,2.7
+759.0,False,False,False,False,True,Lobo superior direito,3.4
+760.0,False,False,False,False,False,Lobo superior direito,8.0
+771.0,False,False,False,False,False,Lobo inferior direito,6.0
+774.0,False,False,True,False,False,Lobo médio direito,5.0
+776.0,False,False,False,False,True,Lobo inferior direito,4.1
+792.0,False,False,False,False,True,Lobo superior esquerdo,5.9
+795.0,False,False,False,False,True,Lobo inferior direito,3.0
+797.0,True,False,False,False,False,Lobo superior direito,4.0
+806.0,False,False,True,False,False,Lobo superior direito,4.0
+811.0,True,False,False,False,False,Lobo superior direito,5.0
+813.0,False,False,False,False,True,Lobo superior direito,4.0
+818.0,False,False,False,False,False,Lobo inferior direito,3.0
+819.0,False,False,False,False,True,Lobo superior esquerdo,1.4
+820.0,False,False,False,False,True,Lobo inferior direito,3.3
+821.0,False,False,False,False,False,Lobo médio direito,5.0
+822.0,True,False,False,False,False,Outros,4.0
+830.0,False,False,False,False,False,Lobo inferior direito,8.0
+832.0,False,False,False,True,False,Lobo inferior esquerdo,8.0
+834.0,False,False,False,False,True,Lobo superior esquerdo,4.5
+836.0,False,False,False,False,True,Lobo superior esquerdo,3.2
+839.0,False,False,False,False,True,Lobo inferior esquerdo,5.0
+847.0,False,False,False,False,True,Lobo inferior direito,6.4
+848.0,True,False,False,False,False,Lobo médio direito,3.0
+851.0,False,False,False,False,True,Lobo inferior direito,3.0
+853.0,False,False,False,True,False,Lobo superior esquerdo,13.1
+864.0,False,False,False,False,False,Lobo inferior esquerdo,5.0
+865.0,False,False,False,False,True,Lobo inferior esquerdo,2.3
+867.0,True,False,False,False,False,Lobo médio direito,9.0
+871.0,False,False,False,False,True,Outros,7.0
+873.0,False,False,False,False,False,Lobo superior esquerdo,3.0
+874.0,True,False,False,False,False,Lobo médio direito,3.0
+875.0,False,False,False,False,True,Lobo inferior direito,4.0
+877.0,False,False,False,False,True,Lobo inferior direito,3.5
+880.0,False,False,False,False,False,Outros,4.0
+881.0,False,False,False,False,True,Lobo superior esquerdo,6.0
+885.0,False,False,False,False,True,Outros,1.6
+886.0,False,False,False,False,True,Lobo superior esquerdo,4.0
+893.0,True,False,False,False,False,Lobo superior esquerdo,2.5
+896.0,False,False,False,False,True,Lobo inferior esquerdo,4.0
+900.0,False,False,False,False,True,Lobo inferior direito,7.0

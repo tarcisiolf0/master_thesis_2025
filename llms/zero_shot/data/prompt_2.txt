@@ -1,0 +1,21 @@
+Por favor extraia informações estruturadas relevantes do laudo acima:
+"Questão" : "Resposta"
+{
+"O nódulo é sólido ou em partes moles?" : "",
+"O nódulo tem densidade semissólida ou parcialmente sólida?" : "",
+"O nódulo é em vidro fosco?" : "",
+"O nódulo é espiculado, irregular ou mal definido?" : "",
+"O nódulo é calcificado?" : "",
+"Localização do nódulo" : "",
+"Tamanho do nódulo" : ""
+}
+
+A seguir são descritos alguns requisitos para extração:
+1. Por favor extraia informações estruturadas para o nódulo pulmonar mencionado no laudo para preencher a tabela. Nesse processo você deve desconsiderar todos os achados descritos no laudo exceto: nódulos, imagem ovalar hiperdensa ou imagem hiperatenuante ovalar.
+2. Se o laudo não contiver informações relevantes relacionadas a uma pergunta específica, por favor preencha com "Não" a resposta dessa pergunta. A pergunta do tamanho do nódulo deve ser respondida apenas com números e unidade de medida.
+
+Aqui são descritos alguns pontos de conhecimento médico prévio para sua referência
+1. Imagem ovalar hiperdensa deve ser considerada como nódulo pulmonar calcificado.
+2. Sólido, partes moles e vidro fosco, são mutuamente exclusivas. Apenas uma das três perguntas pode ser "Sim", e a 
+opacidade mista em vidro fosco significa que o tumor tem componentes de opacidade sólidos e em vidro fosco.
+3. Micronódulo é um nódulo no pulmão com menos de 3 milímetros (mm) de diâmetro. Nesse contexto devido as suas pequenas dimensões não estamos interessados em extrair suas características. Portanto, não deve ser extraída as suas características.

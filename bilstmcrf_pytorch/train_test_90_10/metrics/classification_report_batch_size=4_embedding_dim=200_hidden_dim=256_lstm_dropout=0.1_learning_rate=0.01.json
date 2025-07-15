@@ -1,0 +1,56 @@
+{
+    "ACH": {
+        "precision": 0.9636363636363636,
+        "recall": 0.8983050847457628,
+        "f1-score": 0.9298245614035089,
+        "support": 59
+    },
+    "ATE": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 8
+    },
+    "BOR": {
+        "precision": 0.8,
+        "recall": 0.8,
+        "f1-score": 0.8000000000000002,
+        "support": 5
+    },
+    "CAL": {
+        "precision": 0.9375,
+        "recall": 0.9375,
+        "f1-score": 0.9375,
+        "support": 48
+    },
+    "LOC": {
+        "precision": 0.8064516129032258,
+        "recall": 0.8928571428571429,
+        "f1-score": 0.8474576271186439,
+        "support": 56
+    },
+    "TAM": {
+        "precision": 0.8974358974358975,
+        "recall": 0.8974358974358975,
+        "f1-score": 0.8974358974358975,
+        "support": 39
+    },
+    "micro avg": {
+        "precision": 0.8976744186046511,
+        "recall": 0.8976744186046511,
+        "f1-score": 0.8976744186046511,
+        "support": 215
+    },
+    "macro avg": {
+        "precision": 0.9008373123292479,
+        "recall": 0.8626830208398006,
+        "f1-score": 0.8782268238501513,
+        "support": 215
+    },
+    "weighted avg": {
+        "precision": 0.9023992361726795,
+        "recall": 0.8976744186046511,
+        "f1-score": 0.8984856702260183,
+        "support": 215
+    }
+}

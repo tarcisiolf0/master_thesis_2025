@@ -1,0 +1,13 @@
+Por favor extraia informações estruturadas relevantes do laudo acima:
+"Questão" : "Resposta"
+{
+"O nódulo é sólido ou em partes moles?" : "",
+"O nódulo tem densidade semissólida ou parcialmente sólida?" : "",
+"O nódulo é em vidro fosco?" : "",
+"O nódulo é espiculado, irregular ou mal definido?" : "",
+"O nódulo é calcificado?" : "",
+"Localização do nódulo" : "",
+"Tamanho do nódulo" : ""
+}
+
+Se o laudo não contiver informações relevantes relacionadas a uma pergunta específica, por favor preencha com "Não" a resposta dessa pergunta. A pergunta do tamanho do nódulo deve ser respondida apenas com números e unidade de medida.
