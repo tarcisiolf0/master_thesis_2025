@@ -1,1 +1,1 @@
-# master_thesis_2025
+# Repository containing the models used in the master's thesis as well as the analysis of the results
